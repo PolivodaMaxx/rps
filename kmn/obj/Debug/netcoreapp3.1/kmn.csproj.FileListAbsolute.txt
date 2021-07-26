@@ -1,0 +1,13 @@
+C:\Users\poliv\Documents\code\kmn\bin\Debug\netcoreapp3.1\kmn.exe
+C:\Users\poliv\Documents\code\kmn\bin\Debug\netcoreapp3.1\kmn.deps.json
+C:\Users\poliv\Documents\code\kmn\bin\Debug\netcoreapp3.1\kmn.runtimeconfig.json
+C:\Users\poliv\Documents\code\kmn\bin\Debug\netcoreapp3.1\kmn.runtimeconfig.dev.json
+C:\Users\poliv\Documents\code\kmn\bin\Debug\netcoreapp3.1\kmn.dll
+C:\Users\poliv\Documents\code\kmn\bin\Debug\netcoreapp3.1\kmn.pdb
+C:\Users\poliv\Documents\code\kmn\obj\Debug\netcoreapp3.1\kmn.csprojAssemblyReference.cache
+C:\Users\poliv\Documents\code\kmn\obj\Debug\netcoreapp3.1\kmn.AssemblyInfoInputs.cache
+C:\Users\poliv\Documents\code\kmn\obj\Debug\netcoreapp3.1\kmn.AssemblyInfo.cs
+C:\Users\poliv\Documents\code\kmn\obj\Debug\netcoreapp3.1\kmn.csproj.CoreCompileInputs.cache
+C:\Users\poliv\Documents\code\kmn\obj\Debug\netcoreapp3.1\kmn.dll
+C:\Users\poliv\Documents\code\kmn\obj\Debug\netcoreapp3.1\kmn.pdb
+C:\Users\poliv\Documents\code\kmn\obj\Debug\netcoreapp3.1\kmn.genruntimeconfig.cache

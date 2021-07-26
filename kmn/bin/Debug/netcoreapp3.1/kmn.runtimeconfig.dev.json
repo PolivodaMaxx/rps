@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\poliv\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\poliv\\.nuget\\packages"
+    ]
+  }
+}
